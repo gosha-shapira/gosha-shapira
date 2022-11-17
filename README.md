@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @gosha-shapira
 - 👀 I’m interested in Code, Surfing and Motorcycles
-- 🌱 I’m currently learning my 1st Computer Science degree
-- 📫 You can reach me on my LinkedIn https://www.linkedin.com/in/gosha-shapira-a81a59150/
+- 📡 I'm 8200 alumnus
+- 🌱 I finished my 1st Computer Science degree
+- 📫 You can reach me on my LinkedIn https://www.linkedin.com/in/gosha-shapira
