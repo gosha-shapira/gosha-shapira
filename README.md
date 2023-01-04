@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gosha-shapira
-- I'm Backend Developer at Spot by Netapp
+- ☁️ I'm Backend Developer at Spot by Netapp
 - 👀 I’m interested in Code, Surfing and Motorcycles
 - 📡 I'm 8200 alumnus
-- 🌱 I finished my 1st Computer Science degree
 - 📫 You can reach me on my LinkedIn https://www.linkedin.com/in/gosha-shapira
