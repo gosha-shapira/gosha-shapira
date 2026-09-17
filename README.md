@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gosha-shapira
-- ☁️ I'm Backend Developer at Spot (by Flexera)
+- ☁️ I'm Backend and Data infrastructure Engineer at SecuriThings
 - 👀 I’m interested in Code, Surfing and Motorcycles
 - 📡 I'm 8200 alumnus
 - 📫 You can reach me on my LinkedIn https://www.linkedin.com/in/gosha-shapira
